@@ -5,7 +5,6 @@ const userInterface = require('./userInterface');
 
 
 
-// const MOVIE_API_URL = './data.json';
 async function start() {
   try {
     let movies = await fileHandler.readDataFromFile('./data.json');
