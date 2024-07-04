@@ -29,12 +29,12 @@ This project includes a Command Line Interface (CLI) application built using Nod
 ### Examples
 <div style="border: 1px solid #ccc; padding: 10px; margin-right:10px;display: flex; flex-wrap: wrap; gap: 10px;">
     <div style="width: 300px;">
-       <p>-Display all movies:</p> <img src="./imges/Capture.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
+       <p style="font-Weight:bold;">Display all movies:</p> <img src="./imges/Capture.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
     </div>
 
 
   <div style="width: 300px;">
-       <p>Add New Movie:  </p><img src="./imges/addMovie.png" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
+       <p style="font-Weight:bold;">Add New Movie:  </p><img src="./imges/addMovie.png" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
     </div>
 
   <div style="width: 300px;">
@@ -42,12 +42,12 @@ This project includes a Command Line Interface (CLI) application built using Nod
     </div>
 
   <div style="width: 300px;">
-       <p>Delete a Movie</p><img src="./imges/delete.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
+       <p style="font-Weight:bold;">Delete a Movie</p><img src="./imges/delete.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
     </div>
   <div style="width: 300px;">
-       <p>Search a Movie </p><img src="./imges/search.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
+       <p style="font-Weight:bold;">Search a Movie </p><img src="./imges/search.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
     </div>
   <div style="width: 300px;">
-       <p style="text-family:bold;">Fetch data of Movie </p><img src="./imges/fetch.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
+       <p style="font-Weight:bold;">Fetch data of Movie </p><img src="./imges/fetch.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
     </div>
 </div>
