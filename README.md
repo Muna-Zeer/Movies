@@ -27,20 +27,33 @@ This project includes a Command Line Interface (CLI) application built using Nod
 * **Async Programming:** Employ  asynchronous programming paradigm such as  Promises or async/await to handle file read/write operations and API requests.
 
 ### Examples
--Display all movies:
-![All Movies](./imges/Capture.PNG)
+<div style="border: 1px solid #ccc; padding: 10px; margin-right:10px;display: flex; flex-wrap: wrap; gap: 10px;">
+    <div style="width: 400px;">
+       <p>-Display all movies: <img src="./imges/Capture.PNG" alt="Crop Image" style="width: 100%; height: 200px; border: 1px solid #ccc;">
+       </p>
+    </div>
 
-- Add New Movie:
-![Add new Movie](./imges/addMovie.png)
 
-- Update a Movie
-![Update Movie](./imges/update.PNG)
+  <div style="width: 400px;">
+       <p>Add New Movie: <img src="./imges/addMovie.png" alt="Crop Image" style="width: 100%; height: 200px; border: 1px solid #ccc;">
+       </p>
+    </div>
 
-- Delete a Movie
-![Delete Movie](./imges/delete.PNG)
+  <div style="width: 400px;">
+       <p>Update a Movie<img src="./imges/update.PNG" alt="Crop Image" style="width: 100%; height: 200px; border: 1px solid #ccc;">
+       </p>
+    </div>
 
-- Search a Movie
-![Search Movie](./imges/search.PNG)
-
-- Fetch data of Movie
-![Fetch Movie](./imges/fetch.PNG)
+  <div style="width: 400px;">
+       <p>Delete a Movie<img src="./imges/delete.PNG" alt="Crop Image" style="width: 100%; height: 200px; border: 1px solid #ccc;">
+       </p>
+    </div>
+  <div style="width: 400px;">
+       <p>Search a Movie<img src="./imges/search.PNG" alt="Crop Image" style="width: 100%; height: 200px; border: 1px solid #ccc;">
+       </p>
+    </div>
+  <div style="width: 400px;">
+       <p>Fetch data of Movie<img src="./imges/fetch.PNG" alt="Crop Image" style="width: 100%; height: 200px; border: 1px solid #ccc;">
+       </p>
+    </div>
+</div>
