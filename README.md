@@ -22,9 +22,25 @@ This project includes a Command Line Interface (CLI) application built using Nod
 
 
 ### Notes: 
-* Modules: Organize the application into module components to enhance maintainability and scalability. Separate modules for file handling, movie management, API requests, and user interaction ensure clear separation of concerns.
+* **Modules:** Organize the application into module components to enhance maintainability and scalability. Separate modules for file handling, movie management, API requests, and user interaction ensure clear separation of concerns.
 
-* Async Programming: Employ  asynchronous programming paradigm such as  Promises or async/await to handle file read/write operations and API requests.
+* **Async Programming:** Employ  asynchronous programming paradigm such as  Promises or async/await to handle file read/write operations and API requests.
 
 ### Examples
+-Display all movies:
+![All Movies](./imges/Capture.PNG)
 
+- Add New Movie:
+![Add new Movie](./imges/addMovie.png)
+
+- Update a Movie
+![Update Movie](./imges/update.PNG)
+
+- Delete a Movie
+![Delete Movie](./imges/delete.PNG)
+
+- Search a Movie
+![Search Movie](./imges/search.PNG)
+
+- Fetch data of Movie
+![Fetch Movie](./imges/fetch.PNG)
