@@ -48,6 +48,6 @@ This project includes a Command Line Interface (CLI) application built using Nod
        <p>Search a Movie </p><img src="./imges/search.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
     </div>
   <div style="width: 300px;">
-       <p>Fetch data of Movie </p><img src="./imges/fetch.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
+       <p style="text-family:bold;">Fetch data of Movie </p><img src="./imges/fetch.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
     </div>
 </div>
