@@ -29,31 +29,25 @@ This project includes a Command Line Interface (CLI) application built using Nod
 ### Examples
 <div style="border: 1px solid #ccc; padding: 10px; margin-right:10px;display: flex; flex-wrap: wrap; gap: 10px;">
     <div style="width: 300px;">
-       <p>-Display all movies: <img src="./imges/Capture.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
-       </p>
+       <p>-Display all movies:</p> <img src="./imges/Capture.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
     </div>
 
 
   <div style="width: 300px;">
-       <p>Add New Movie: <img src="./imges/addMovie.png" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
-       </p>
+       <p>Add New Movie:  </p><img src="./imges/addMovie.png" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
     </div>
 
   <div style="width: 300px;">
-       <p>Update a Movie<img src="./imges/update.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
-       </p>
+       <p>Update a Movie</p><img src="./imges/update.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
     </div>
 
   <div style="width: 300px;">
-       <p>Delete a Movie<img src="./imges/delete.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
-       </p>
+       <p>Delete a Movie</p><img src="./imges/delete.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
     </div>
   <div style="width: 300px;">
-       <p>Search a Movie<img src="./imges/search.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
-       </p>
+       <p>Search a Movie </p><img src="./imges/search.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
     </div>
   <div style="width: 300px;">
-       <p>Fetch data of Movie<img src="./imges/fetch.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
-       </p>
+       <p>Fetch data of Movie </p><img src="./imges/fetch.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
     </div>
 </div>
