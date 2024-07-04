@@ -29,7 +29,7 @@ This project includes a Command Line Interface (CLI) application built using Nod
 ### Examples
 <div style="border: 1px solid #ccc; padding: 10px; margin-right:10px;display: flex; flex-wrap: wrap; gap: 10px;">
     <div style="width: 300px;">
-       <p style="font-Weight:bold;">Display all movies:</p> <img src="./imges/Capture.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
+       <p style="font-weight:bold;">Display all movies:</p> <img src="./imges/Capture.PNG" alt="Crop Image" style="width: 80%; height: 200px; border: 1px solid #ccc;">
     </div>
 
 
