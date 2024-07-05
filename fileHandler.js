@@ -1,5 +1,6 @@
 const fs = require('fs');
 
+// Read data from the file 
 function readDataFromFile(filename) {
   return new Promise((resolve, reject) => {
     fs.readFile(filename, 'utf8', (error, data) => {
@@ -16,7 +17,7 @@ function readDataFromFile(filename) {
     });
   });
 }
-
+// Write your data  in the file
 function writeDataToFile(filename, data) {
   return new Promise((resolve, reject) => {
     const jsonData = JSON.stringify(data, null, 2);
