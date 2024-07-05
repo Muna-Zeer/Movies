@@ -1,10 +1,11 @@
 const readline = require('readline');
 
+// Enter inputs by the user
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
-
+// Ask the question
 function prompt(question) {
   return new Promise((resolve) => {
     rl.question(question, (answer) => {
@@ -12,7 +13,7 @@ function prompt(question) {
     });
   });
 }
-
+// Display the question of the movie options 
 function displayMainMenu() {
   console.log('===== Movie Catalog =====');
   console.log('1. Display Movie Catalog');
@@ -24,6 +25,7 @@ function displayMainMenu() {
   console.log('7. Exit');
   return prompt('Select an option: ');
 }
+ // Adding new movie 
 async function promptNewMovie() {
   console.log('===== Add New Movie =====');
   const title = await prompt('Enter the movie title: ');
@@ -32,7 +34,7 @@ async function promptNewMovie() {
   const director = await prompt('Enter the director: ');
   return { title, year, genre, director };
 }
-
+// Update the items of the movie
 async function promptUpdatedMovie() {
   console.log('===== Update Movie Details =====');
   const index = parseInt(await prompt('Enter the index of the movie to update: '));
@@ -43,12 +45,14 @@ async function promptUpdatedMovie() {
   return { index, movie: { title, year, genre, director } };
 }
 
+// Delete the movie by it's index
 async function promptMovieToDelete() {
   console.log('===== Delete Movie =====');
   const index = parseInt(await prompt('Enter the index of the movie to delete: '));
   return { index };
 }
 
+// Display search movie items
 async function displaySearchMenu() {
   console.log('===== Search Movies =====');
   console.log('1. Search by Title');
